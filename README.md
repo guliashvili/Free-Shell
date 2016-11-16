@@ -27,7 +27,6 @@ Free shell can join commands in several ways.
 < = Redirects STDIN
 > = Redirects STDOUT
 >> = Redirects STDOUT into the file. 
- ფუნქციებს, ასევე შეუძლია კონკრეტული გაშვებადი ფაილების გაშვება, ან/და ფაილების მოძებნა PATH გარემოს ცვლადის მიერ მითიტებულ
 
 ```
 
